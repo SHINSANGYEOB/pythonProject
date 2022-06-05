@@ -14,3 +14,5 @@ if __name__ == '__main__':
     print_hi('상엽상엽')
     print('dddddd123')
     print('dddddd')
+    print('4')
+    print('5')
