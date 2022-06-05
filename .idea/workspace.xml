@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bbf6ac8a-ba6d-4323-aa38-728b2861b04c" name="Changes" comment="진짜 커밋한다!!!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloWorld.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
