@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbf6ac8a-ba6d-4323-aa38-728b2861b04c" name="Changes" comment="진짜 커밋한다" />
+    <list default="true" id="bbf6ac8a-ba6d-4323-aa38-728b2861b04c" name="Changes" comment="진짜 커밋한다!!!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +65,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\신상엽\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bbf6ac8a-ba6d-4323-aa38-728b2861b04c" name="Changes" comment="" />
@@ -77,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654397560204</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="진짜 커밋한다!!!">
+      <created>1654398038614</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654398038614</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="진짜 커밋한다" />
-    <option name="LAST_COMMIT_MESSAGE" value="진짜 커밋한다" />
+    <MESSAGE value="진짜 커밋한다!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="진짜 커밋한다!!!" />
   </component>
 </project>
