@@ -1,10 +1,19 @@
 from selenium import webdriver
+import sys, os, time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
+if getattr(sys, 'frozen', False):
+    chromedriver_path = os.path.join(sys._MEIPASS, "chromedriver.exe")
+    #chromedriver_path = os.path.join("C:\Users\신상엽\Desktop\git_workspace\pythonProject", "chromedriver.exe")
+    driver = webdriver.Chrome(chromedriver_path)
+else:
+    driver = webdriver.Chrome()
 
-chromedriver = 'C:\\Users\\신상엽\\Desktop\\git workspace\\chormeDriver\\chromedriver.exe'
-driver = webdriver.Chrome(chromedriver)
+
+#chromedriver = 'C:\\Users\\신상엽\\Desktop\\git workspace\\pythonProject\\chromedriver.exe'
+#driver = webdriver.Chrome(chromedriver)
+
 driver.get('https://www.naver.com/')
 driver.maximize_window()
 
